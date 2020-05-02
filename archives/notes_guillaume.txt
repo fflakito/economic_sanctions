@@ -1,7 +1,0 @@
-Feature engineering
-
-- Get dummies sur Eres
-- Faire un scoring sur les Companion policies… et sanction types
-- Inflation : essayer avec moyenne, puis sans la colonne
-- Trade linkage à regrouper 
-
