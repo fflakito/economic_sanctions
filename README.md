@@ -1,5 +1,7 @@
 # Impact of economic sanctions
 
+![pretty image](img/map4.jpg)
+
 ## Can we predict the success of economic sanctions?
 (group work, ~15h)
 
